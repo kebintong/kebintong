@@ -30,17 +30,20 @@
 
 ### ✦ Live GitHub Telemetry & Stats
 
-<!-- 3. SIDE-BY-SIDE STATS & LANGUAGES (High contrast, no low grade C, no vertical void) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kebintong&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=D9232E&text_color=E5E5E5&icon_color=D9232E&border_color=262626&hide_rank=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebintong&layout=compact&theme=radical&bg_color=0D0D0D&title_color=D9232E&text_color=E5E5E5&border_color=262626" height="175" alt="Top Languages" />
-</p>
+<div align="center">
 
-<!-- 4. ANIMATED STREAK STATS (Live burning flame & streak counter) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kebintong&theme=dark&background=0D0D0D&border=262626&stroke=D9232E&ring=D9232E&fire=D9232E&currStreakLabel=D9232E" alt="GitHub Streak Animation" />
-</p>
+  <!-- TOP ROW: Level 195px height on both cards -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kebintong&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=D9232E&text_color=E5E5E5&icon_color=D9232E&border_color=262626&hide_rank=true&include_all_commits=true" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebintong&layout=compact&theme=radical&bg_color=0D0D0D&title_color=D9232E&text_color=E5E5E5&border_color=262626&langs_count=8" height="195" alt="Top Languages" />
+  </p>
 
+  <!-- BOTTOM ROW: Flush 616px width matching the combined top cards -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=kebintong&theme=dark&background=0D0D0D&border=262626&stroke=D9232E&ring=D9232E&fire=D9232E&currStreakLabel=D9232E&card_width=616" height="195" alt="GitHub Streak" />
+  </p>
+
+</div>
 ---
 
 ### ✦ Tech Stack & Arsenal
